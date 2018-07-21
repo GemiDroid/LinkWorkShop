@@ -26,14 +26,14 @@ import kotlinx.android.synthetic.main.news_detail_fragment.*
 class NewsListActivity : AppCompatActivity(), NavigationView.OnNavigationItemSelectedListener {
 
     var twoPane: Boolean = false
-    val smallestWidth:Int=600
+    val smallestWidth: Int = 600
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_news_list)
         setSupportActionBar(toolbar)
 
-        if (resources.configuration.smallestScreenWidthDp>=smallestWidth)
+        if (resources.configuration.smallestScreenWidthDp >= smallestWidth)
             twoPane = true
 
         val fragment = NewsListFragment().apply {
@@ -61,6 +61,8 @@ class NewsListActivity : AppCompatActivity(), NavigationView.OnNavigationItemSel
         if (drawer_layout != null) {
             if (drawer_layout.isDrawerOpen(GravityCompat.START)) {
                 drawer_layout.closeDrawer(GravityCompat.START)
+            } else {
+                super.onBackPressed()
             }
         } else {
             super.onBackPressed()

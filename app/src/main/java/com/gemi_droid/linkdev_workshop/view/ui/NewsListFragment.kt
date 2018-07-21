@@ -47,7 +47,7 @@ class NewsListFragment : Fragment() {
             if (it != null) {
                 setupRecyclerView(rec_news, it)
             } else {
-                Snackbar.make(nav_view, getString(R.string.no_internet), Toast.LENGTH_SHORT).show()
+                Toast.makeText(activity, getString(R.string.no_internet), Toast.LENGTH_SHORT).show()
             }
         })
     }
