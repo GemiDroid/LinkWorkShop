@@ -1,0 +1,19 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorGreyWhite"
+    android:fitsSystemWindows="true"
+    android:orientation="vertical"
+    android:theme="@style/AppTheme">
+
+    <include
+        layout="@layout/app_tool_bar"
+        android:layout_width="match_parent"
+        android:layout_height="?actionBarSize" />
+
+    <FrameLayout
+        android:id="@+id/container_details"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+</LinearLayout>

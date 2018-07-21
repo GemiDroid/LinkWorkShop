@@ -1,0 +1,74 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/news_detail_container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true"
+    android:theme="@style/AppTheme"
+    tools:context="com.gemi_droid.linkdev_workshop.view.ui.NewsDetailsActivity">
+
+    <LinearLayout
+        android:padding="@dimen/space25"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                android:id="@+id/img_news_details_url"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:minHeight="@dimen/space100"
+                android:scaleType="fitXY"
+                tools:src="@drawable/gallery" />
+
+            <TextView
+                android:id="@+id/txt_news_details_date"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/img_news_url"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentBottom="true"
+                android:textColor="@color/colorWhite"
+                tools:text="12/12/2012" />
+
+        </RelativeLayout>
+
+        <TextView
+            android:id="@+id/txt_news_details_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/colorBlack"
+            tools:text="@string/news_title" />
+
+        <TextView
+            android:id="@+id/txt_news_details_author"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/space10"
+            tools:text="@string/news_author" />
+
+        <TextView
+            android:id="@+id/txt_news_details_description"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/space30"
+            tools:text="@string/news_description" />
+
+        <Button
+            android:id="@+id/btn_open_web"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/space30"
+            android:background="@color/colorBlack"
+            android:gravity="center"
+            android:text="@string/open_website"
+            android:textAllCaps="false"
+            android:textColor="@color/colorWhite" />
+
+    </LinearLayout>
+
+</ScrollView>
