@@ -1,27 +1,16 @@
 package com.gemi_droid.linkdev_workshop.view.ui
 
 import android.os.Bundle
-import android.util.Log
 import com.google.android.material.navigation.NavigationView
 import androidx.core.view.GravityCompat
 import androidx.appcompat.app.ActionBarDrawerToggle
 import androidx.appcompat.app.AppCompatActivity
 import android.view.Menu
 import android.view.MenuItem
-import android.view.View
 import android.widget.Toast
-import androidx.lifecycle.Observer
-import androidx.lifecycle.ViewModelProviders
-import androidx.recyclerview.widget.RecyclerView
 import com.gemi_droid.linkdev_workshop.R
-import com.gemi_droid.linkdev_workshop.model.network.models.NewsModel
-import com.gemi_droid.linkdev_workshop.view.adapter.NewsListAdapter
-import com.gemi_droid.linkdev_workshop.view_model.NewsViewModel
-import com.google.android.material.snackbar.Snackbar
 import kotlinx.android.synthetic.main.activity_news_list.*
 import kotlinx.android.synthetic.main.app_tool_bar.*
-import kotlinx.android.synthetic.main.content_main.*
-import kotlinx.android.synthetic.main.news_detail_fragment.*
 
 class NewsListActivity : AppCompatActivity(), NavigationView.OnNavigationItemSelectedListener {
 

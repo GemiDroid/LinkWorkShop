@@ -10,6 +10,7 @@ import android.view.View
 import android.view.ViewGroup
 import com.gemi_droid.linkdev_workshop.R
 import com.gemi_droid.linkdev_workshop.model.network.models.NewsModel
+import com.gemi_droid.linkdev_workshop.model.utilits.TimeFormat
 import com.squareup.picasso.Picasso
 import kotlinx.android.synthetic.main.activity_news_details.*
 import kotlinx.android.synthetic.main.news_detail_fragment.*
@@ -39,7 +40,8 @@ class NewsDetailsFragment : Fragment() {
         newsObject?.let {
             rootView.txt_news_details_title.text = newsObject?.newsTitle
             rootView.txt_news_details_author.text = "By " + newsObject?.newsAuthor
-            rootView.txt_news_details_date.text = newsObject?.newsDate
+            rootView.txt_news_details_date.text =TimeFormat.getCurrentTimeFormat(newsObject?.newsDate)
+            newsObject?.newsDate
             rootView.txt_news_details_description.text = newsObject?.newsDescription
             Picasso.with(activity).load(newsObject?.newsImageUrl).placeholder(R.drawable.placeholder).into(rootView.img_news_details_url)
 

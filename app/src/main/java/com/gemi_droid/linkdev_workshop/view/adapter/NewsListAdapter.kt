@@ -53,8 +53,7 @@ class NewsListAdapter() : RecyclerView.Adapter<NewsListAdapter.NewsHolder>() {
 
 
         holder.itemView.setOnClickListener {
-            newsObject.newsDate = TimeFormat.getCurrentTimeFormat(newsObject.newsDate)
-            if (twoPane) {
+             if (twoPane) {
                 val fragment = NewsDetailsFragment().apply {
                     arguments = Bundle().apply {
                         putParcelable(NewsDetailsFragment.NEWS_OBJECT, newsObject)

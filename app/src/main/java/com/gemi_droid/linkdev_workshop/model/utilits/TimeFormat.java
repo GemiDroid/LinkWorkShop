@@ -12,7 +12,6 @@ public class TimeFormat {
         SimpleDateFormat sdfOutPut = new SimpleDateFormat(" MMMM d, yyyy ", new Locale("en"));
         Date dateFrom = null;
         try {
-            if (publishDate != null)
                 dateFrom = sdfInPut.parse(publishDate);
         } catch (ParseException e) {
             e.printStackTrace();
