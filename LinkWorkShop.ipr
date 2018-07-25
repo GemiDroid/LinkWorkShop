@@ -1,0 +1,702 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.1-all/bzyivzo6n839fup2jbap0tjew/gradle-4.1" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+  <component name="InspectionProjectProfileManager">
+    <profile version="1.0">
+      <option name="myName" value="Project Default" />
+    </profile>
+    <version value="1.0" />
+  </component>
+  <component name="NullableNotNullManager">
+    <option name="myDefaultNullable" value="android.support.annotation.Nullable" />
+    <option name="myDefaultNotNull" value="android.support.annotation.NonNull" />
+    <option name="myNullables">
+      <value>
+        <list size="6">
+          <item index="0" class="java.lang.String" itemvalue="org.jetbrains.annotations.Nullable" />
+          <item index="1" class="java.lang.String" itemvalue="javax.annotation.Nullable" />
+          <item index="2" class="java.lang.String" itemvalue="javax.annotation.CheckForNull" />
+          <item index="3" class="java.lang.String" itemvalue="edu.umd.cs.findbugs.annotations.Nullable" />
+          <item index="4" class="java.lang.String" itemvalue="android.support.annotation.Nullable" />
+          <item index="5" class="java.lang.String" itemvalue="androidx.annotation.Nullable" />
+        </list>
+      </value>
+    </option>
+    <option name="myNotNulls">
+      <value>
+        <list size="5">
+          <item index="0" class="java.lang.String" itemvalue="org.jetbrains.annotations.NotNull" />
+          <item index="1" class="java.lang.String" itemvalue="javax.annotation.Nonnull" />
+          <item index="2" class="java.lang.String" itemvalue="edu.umd.cs.findbugs.annotations.NonNull" />
+          <item index="3" class="java.lang.String" itemvalue="android.support.annotation.NonNull" />
+          <item index="4" class="java.lang.String" itemvalue="androidx.annotation.NonNull" />
+        </list>
+      </value>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleConfiguration">
+    <code_scheme name="Project" version="173">
+      <Objective-C-extensions>
+        <file>
+          <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="Import" />
+          <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="Macro" />
+          <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="Typedef" />
+          <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="Enum" />
+          <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="Constant" />
+          <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="Global" />
+          <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="Struct" />
+          <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="FunctionPredecl" />
+          <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="Function" />
+        </file>
+        <class>
+          <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="Property" />
+          <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="Synthesize" />
+          <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="InitMethod" />
+          <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="StaticMethod" />
+          <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="InstanceMethod" />
+          <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="DeallocMethod" />
+        </class>
+        <extensions>
+          <pair source="cpp" header="h" fileNamingConvention="NONE" />
+          <pair source="c" header="h" fileNamingConvention="NONE" />
+        </extensions>
+      </Objective-C-extensions>
+    </code_scheme>
+  </component>
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/LinkWorkShop.iml" filepath="$PROJECT_DIR$/LinkWorkShop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_7" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="RunConfigurationProducerService">
+    <option name="ignoredProducers">
+      <set>
+        <option value="org.jetbrains.plugins.gradle.execution.test.runner.AllInPackageGradleConfigurationProducer" />
+        <option value="org.jetbrains.plugins.gradle.execution.test.runner.TestClassGradleConfigurationProducer" />
+        <option value="org.jetbrains.plugins.gradle.execution.test.runner.TestMethodGradleConfigurationProducer" />
+      </set>
+    </option>
+  </component>
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+  </component>
+  <component name="libraryTable">
+    <library name="Gradle: androidx.annotation:annotation:1.0.0-alpha1@jar">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.annotation/annotation/1.0.0-alpha1/fa86eaa79396c7eb0e1706ffcf6e029cab0f1a38/annotation-1.0.0-alpha1.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.annotation/annotation/1.0.0-alpha1/78f3c5459fae8d4240cc5db1fb55ceb7fd263f5b/annotation-1.0.0-alpha1-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: androidx.appcompat:appcompat-1.0.0-alpha1">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0-alpha1.aar/7b5851766b4deb9f00f3db9885de852a/res" />
+        <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0-alpha1.aar/7b5851766b4deb9f00f3db9885de852a/jars/classes.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.appcompat/appcompat/1.0.0-alpha1/6d3a54c002f143e0043d682896be5a43e2a8fce3/appcompat-1.0.0-alpha1-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: androidx.arch.core:core-common:2.0.0-alpha1@jar">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.arch.core/core-common/2.0.0-alpha1/d7ef666e361bc32dbc3902f2025a3001798a3c96/core-common-2.0.0-alpha1.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.arch.core/core-common/2.0.0-alpha1/e6c24aa9b5b519d2c028d654112288e491b3f4ae/core-common-2.0.0-alpha1-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: androidx.arch.core:core-runtime-2.0.0-alpha1">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0-alpha1.aar/1027a7f218145a8c1306098ef643a3ab/res" />
+        <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0-alpha1.aar/1027a7f218145a8c1306098ef643a3ab/jars/classes.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.arch.core/core-runtime/2.0.0-alpha1/a42a726d37f4e1f0f182831bd82bd9bf3b6eb6cf/core-runtime-2.0.0-alpha1-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: androidx.asynclayoutinflater:asynclayoutinflater-1.0.0-alpha1">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0-alpha1.aar/9d0bf5f9b973df4ac4f93dc2de181f38/jars/classes.jar!/" />
+        <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0-alpha1.aar/9d0bf5f9b973df4ac4f93dc2de181f38/res" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.asynclayoutinflater/asynclayoutinflater/1.0.0-alpha1/40ecbceb244edf2bbf035f483c71a02b2c1adae9/asynclayoutinflater-1.0.0-alpha1-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: androidx.cardview:cardview-1.0.0-alpha1">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/cardview-1.0.0-alpha1.aar/fa9839064ae8648d28d483a5fa398937/res" />
+        <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/cardview-1.0.0-alpha1.aar/fa9839064ae8648d28d483a5fa398937/jars/classes.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.cardview/cardview/1.0.0-alpha1/e15d03325403cb45e8ed7dbec9e0beb56884db9c/cardview-1.0.0-alpha1-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: androidx.collection:collection:1.0.0-alpha1@jar">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.collection/collection/1.0.0-alpha1/e412a46ff4788df834a34d632f2dd95436f2831e/collection-1.0.0-alpha1.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.collection/collection/1.0.0-alpha1/a803d1f38d6b7db1d83a68268c66c3db7e0c8019/collection-1.0.0-alpha1-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: androidx.constraintlayout:constraintlayout-1.1.2">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/constraintlayout-1.1.2.aar/1045a8db1822d8a710b56e0931178455/res" />
+        <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/constraintlayout-1.1.2.aar/1045a8db1822d8a710b56e0931178455/jars/classes.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="Gradle: androidx.constraintlayout:constraintlayout-solver:1.1.2@jar">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.constraintlayout/constraintlayout-solver/1.1.2/d324137427d23f643b61a2ad1cb20df2b8b1eb97/constraintlayout-solver-1.1.2.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="Gradle: androidx.coordinatorlayout:coordinatorlayout-1.0.0-alpha1">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0-alpha1.aar/c3af0a3d7ba0c5dcb6eb97dfdf80538d/jars/classes.jar!/" />
+        <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0-alpha1.aar/c3af0a3d7ba0c5dcb6eb97dfdf80538d/res" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.coordinatorlayout/coordinatorlayout/1.0.0-alpha1/b39503e045e3be31224bb5274cad27bded6a6278/coordinatorlayout-1.0.0-alpha1-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: androidx.core:core-1.0.0-alpha1">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/core-1.0.0-alpha1.aar/127fdbe4bce2b92a9b5ff41549fb1383/jars/classes.jar!/" />
+        <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/core-1.0.0-alpha1.aar/127fdbe4bce2b92a9b5ff41549fb1383/res" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.core/core/1.0.0-alpha1/90f6778887646f0a9389f9569099498bee2c948d/core-1.0.0-alpha1-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: androidx.cursoradapter:cursoradapter-1.0.0-alpha1">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0-alpha1.aar/3c051dfd65a2757b5a5bd29b2e4653a1/jars/classes.jar!/" />
+        <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0-alpha1.aar/3c051dfd65a2757b5a5bd29b2e4653a1/res" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.cursoradapter/cursoradapter/1.0.0-alpha1/8fbe5c8e6903291374b1b3e3b61ecf1a5f7081cc/cursoradapter-1.0.0-alpha1-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: androidx.customview:customview-1.0.0-alpha1">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/customview-1.0.0-alpha1.aar/ec098a393dbcc14fe104af3caf3cb759/res" />
+        <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/customview-1.0.0-alpha1.aar/ec098a393dbcc14fe104af3caf3cb759/jars/classes.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.customview/customview/1.0.0-alpha1/b8313d350bc0612ba8fd07bb19940f90515b31b2/customview-1.0.0-alpha1-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: androidx.documentfile:documentfile-1.0.0-alpha1">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0-alpha1.aar/517093768742ff4a025ddec7f3a0dfca/jars/classes.jar!/" />
+        <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0-alpha1.aar/517093768742ff4a025ddec7f3a0dfca/res" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.documentfile/documentfile/1.0.0-alpha1/25035b279ec0b87c6770c3d1a2481b21ae55f0eb/documentfile-1.0.0-alpha1-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: androidx.drawerlayout:drawerlayout-1.0.0-alpha1">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0-alpha1.aar/99bd5e70f14e805755df630b679b9981/res" />
+        <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0-alpha1.aar/99bd5e70f14e805755df630b679b9981/jars/classes.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.drawerlayout/drawerlayout/1.0.0-alpha1/7a2db03bf2aaca502d4ba8e52c16bc2cf8447cc1/drawerlayout-1.0.0-alpha1-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: androidx.fragment:fragment-1.0.0-alpha1">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0-alpha1.aar/123df4b0185e0d5a23e1494d2c7e004e/res" />
+        <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0-alpha1.aar/123df4b0185e0d5a23e1494d2c7e004e/jars/classes.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.fragment/fragment/1.0.0-alpha1/78a36199bb434e4a3da8c3268583d8ed3cd29bab/fragment-1.0.0-alpha1-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: androidx.interpolator:interpolator-1.0.0-alpha1">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0-alpha1.aar/8d63ca08ff1a46d8f731a6205cdd4f78/jars/classes.jar!/" />
+        <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0-alpha1.aar/8d63ca08ff1a46d8f731a6205cdd4f78/res" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.interpolator/interpolator/1.0.0-alpha1/95e2e13461ae6ffeb950751bc07a6b078960f22c/interpolator-1.0.0-alpha1-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: androidx.legacy:legacy-support-core-ui-1.0.0-alpha1">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0-alpha1.aar/879d3337ca61c24e9572ed7dd9df8960/res" />
+        <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0-alpha1.aar/879d3337ca61c24e9572ed7dd9df8960/jars/classes.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.legacy/legacy-support-core-ui/1.0.0-alpha1/4963b25977adbd0f74191a8487421b6a134c0783/legacy-support-core-ui-1.0.0-alpha1-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: androidx.legacy:legacy-support-core-utils-1.0.0-alpha1">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0-alpha1.aar/70882871c585ebe524f79610addd27f8/res" />
+        <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0-alpha1.aar/70882871c585ebe524f79610addd27f8/jars/classes.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.legacy/legacy-support-core-utils/1.0.0-alpha1/e15d47e17d665f6d7faee67257d27d91d79dad24/legacy-support-core-utils-1.0.0-alpha1-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: androidx.lifecycle:lifecycle-common:2.0.0-alpha1@jar">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-common/2.0.0-alpha1/281e3b3e30fce3be217f7271a77d9bb36ed2f44b/lifecycle-common-2.0.0-alpha1.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-common/2.0.0-alpha1/cb4562c8927ab69f2a8ef49267b90753207df0c3/lifecycle-common-2.0.0-alpha1-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: androidx.lifecycle:lifecycle-extensions-2.0.0-alpha1">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/lifecycle-extensions-2.0.0-alpha1.aar/1cfa65f84e066b268a339038974e74f5/res" />
+        <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/lifecycle-extensions-2.0.0-alpha1.aar/1cfa65f84e066b268a339038974e74f5/jars/classes.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-extensions/2.0.0-alpha1/84e54bd949cf1843ddddfe3e005b4d3a1649d562/lifecycle-extensions-2.0.0-alpha1-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: androidx.lifecycle:lifecycle-livedata-2.0.0-alpha1">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0-alpha1.aar/009211e4c248320a90a4e8f8a4527f3d/res" />
+        <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0-alpha1.aar/009211e4c248320a90a4e8f8a4527f3d/jars/classes.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-livedata/2.0.0-alpha1/dd796519eb7133e2ed1af15f901954eab50797f0/lifecycle-livedata-2.0.0-alpha1-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: androidx.lifecycle:lifecycle-livedata-core-2.0.0-alpha1">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0-alpha1.aar/d9866ac371052799390d2de48930bb8b/jars/classes.jar!/" />
+        <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0-alpha1.aar/d9866ac371052799390d2de48930bb8b/res" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-livedata-core/2.0.0-alpha1/7db3c05ca2defe318138674d4e044ffccc6954e6/lifecycle-livedata-core-2.0.0-alpha1-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: androidx.lifecycle:lifecycle-process-2.0.0-alpha1">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/lifecycle-process-2.0.0-alpha1.aar/3e4d73186112e5488dd37302d2bc22ce/res" />
+        <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/lifecycle-process-2.0.0-alpha1.aar/3e4d73186112e5488dd37302d2bc22ce/jars/classes.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-process/2.0.0-alpha1/b8ed3a110cf5beec4a8c66b7134bf8a27f511acd/lifecycle-process-2.0.0-alpha1-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: androidx.lifecycle:lifecycle-runtime-2.0.0-alpha1">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0-alpha1.aar/ae8fdb65cb1d8feed4910980b9824683/jars/classes.jar!/" />
+        <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0-alpha1.aar/ae8fdb65cb1d8feed4910980b9824683/res" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-runtime/2.0.0-alpha1/95dd216a7429690262b81dee732a51ed05316eeb/lifecycle-runtime-2.0.0-alpha1-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: androidx.lifecycle:lifecycle-service-2.0.0-alpha1">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/lifecycle-service-2.0.0-alpha1.aar/37799005084f6ad2f50733067436bf64/jars/classes.jar!/" />
+        <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/lifecycle-service-2.0.0-alpha1.aar/37799005084f6ad2f50733067436bf64/res" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-service/2.0.0-alpha1/1713b49b49342b814dac9b7bbe856e18d71b8bdd/lifecycle-service-2.0.0-alpha1-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: androidx.lifecycle:lifecycle-viewmodel-2.0.0-alpha1">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0-alpha1.aar/0a796412407e670c28e97d4bb6ff50bb/res" />
+        <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0-alpha1.aar/0a796412407e670c28e97d4bb6ff50bb/jars/classes.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-viewmodel/2.0.0-alpha1/1b83d21774497ed1f25e2eaa6d4f92f8e3f4b127/lifecycle-viewmodel-2.0.0-alpha1-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: androidx.loader:loader-1.0.0-alpha1">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/loader-1.0.0-alpha1.aar/6198bdaf8521f4719a853574374a8802/res" />
+        <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/loader-1.0.0-alpha1.aar/6198bdaf8521f4719a853574374a8802/jars/classes.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.loader/loader/1.0.0-alpha1/7962ffb2a19a7519b5a024340498f6085ef1667b/loader-1.0.0-alpha1-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: androidx.localbroadcastmanager:localbroadcastmanager-1.0.0-alpha1">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0-alpha1.aar/77001cd87c7530ee3941a7aa0606d876/res" />
+        <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0-alpha1.aar/77001cd87c7530ee3941a7aa0606d876/jars/classes.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.localbroadcastmanager/localbroadcastmanager/1.0.0-alpha1/69516c6975c1970eeae7a89da4fe7fa69d3c6568/localbroadcastmanager-1.0.0-alpha1-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: androidx.print:print-1.0.0-alpha1">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/print-1.0.0-alpha1.aar/b99e05ea1a27f2d41f3fa4c1ec6b6875/res" />
+        <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/print-1.0.0-alpha1.aar/b99e05ea1a27f2d41f3fa4c1ec6b6875/jars/classes.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.print/print/1.0.0-alpha1/67164138c6bca72ae97e07ab3b43016a363fcd56/print-1.0.0-alpha1-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: androidx.recyclerview:recyclerview-1.0.0-alpha1">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/recyclerview-1.0.0-alpha1.aar/4de7de47be4ab55591dcefed6b7696a8/res" />
+        <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/recyclerview-1.0.0-alpha1.aar/4de7de47be4ab55591dcefed6b7696a8/jars/classes.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.recyclerview/recyclerview/1.0.0-alpha1/dbe7dae168f7da68d0b7daedd2ce9f5ea4657dc8/recyclerview-1.0.0-alpha1-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: androidx.slidingpanelayout:slidingpanelayout-1.0.0-alpha1">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0-alpha1.aar/5d68dfec7f6442fb4f8314c3292e8488/res" />
+        <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0-alpha1.aar/5d68dfec7f6442fb4f8314c3292e8488/jars/classes.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.slidingpanelayout/slidingpanelayout/1.0.0-alpha1/db4dfe0ad63715015472c7c2f2b1e43054fcac7a/slidingpanelayout-1.0.0-alpha1-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: androidx.swiperefreshlayout:swiperefreshlayout-1.0.0-alpha1">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0-alpha1.aar/7b8f22757d7636cfee75fa1e4e9b6a39/jars/classes.jar!/" />
+        <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0-alpha1.aar/7b8f22757d7636cfee75fa1e4e9b6a39/res" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.swiperefreshlayout/swiperefreshlayout/1.0.0-alpha1/fec2ed9416fba577f78ae591e91e4846724d962b/swiperefreshlayout-1.0.0-alpha1-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: androidx.test.espresso:espresso-core-3.1.0-alpha3">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/espresso-core-3.1.0-alpha3.aar/b5c0ce6c7c141d2efb8d10007147f7a8/res" />
+        <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/espresso-core-3.1.0-alpha3.aar/b5c0ce6c7c141d2efb8d10007147f7a8/jars/classes.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.test.espresso/espresso-core/3.1.0-alpha3/33d6fb57d99683e82789126cf19d6d30b42a2933/espresso-core-3.1.0-alpha3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: androidx.test.espresso:espresso-idling-resource-3.1.0-alpha3">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/espresso-idling-resource-3.1.0-alpha3.aar/fd83f98b56f43a47cd7e40506f204614/res" />
+        <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/espresso-idling-resource-3.1.0-alpha3.aar/fd83f98b56f43a47cd7e40506f204614/jars/classes.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.test.espresso/espresso-idling-resource/3.1.0-alpha3/fb26c0ecab7731924520599c62c8476a532b8110/espresso-idling-resource-3.1.0-alpha3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: androidx.test:monitor-1.1.0-alpha3">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/monitor-1.1.0-alpha3.aar/59ca76026f7862555e889097814cec31/res" />
+        <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/monitor-1.1.0-alpha3.aar/59ca76026f7862555e889097814cec31/jars/classes.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.test/monitor/1.1.0-alpha3/d3857cdc14534819368d50d8b40730879606883a/monitor-1.1.0-alpha3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: androidx.test:runner-1.1.0-alpha3">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/runner-1.1.0-alpha3.aar/28ab27835e81a55018938c2f241d5619/res" />
+        <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/runner-1.1.0-alpha3.aar/28ab27835e81a55018938c2f241d5619/jars/classes.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.test/runner/1.1.0-alpha3/11b060bcd5c335ae4816d4e09d9811c781e581fb/runner-1.1.0-alpha3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: androidx.transition:transition-1.0.0-alpha1">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/transition-1.0.0-alpha1.aar/033462c4f5612aa489cdb0858c055ada/jars/classes.jar!/" />
+        <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/transition-1.0.0-alpha1.aar/033462c4f5612aa489cdb0858c055ada/res" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.transition/transition/1.0.0-alpha1/5399c9273bdd82270aa961bf1b3fb8f9304caaab/transition-1.0.0-alpha1-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: androidx.vectordrawable:vectordrawable-1.0.0-alpha1">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.0-alpha1.aar/9b05909782cfdac039b4fb210321e1b5/jars/classes.jar!/" />
+        <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.0-alpha1.aar/9b05909782cfdac039b4fb210321e1b5/res" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.vectordrawable/vectordrawable/1.0.0-alpha1/93600bbc56005b151ac9d2c9b3832161366c7103/vectordrawable-1.0.0-alpha1-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: androidx.vectordrawable:vectordrawable-animated-1.0.0-alpha1">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0-alpha1.aar/50aa58bd59c98b344e23e101979506a9/jars/classes.jar!/" />
+        <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0-alpha1.aar/50aa58bd59c98b344e23e101979506a9/res" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.vectordrawable/vectordrawable-animated/1.0.0-alpha1/79c0b5067b73d3fc98e6cd8080a104386936260f/vectordrawable-animated-1.0.0-alpha1-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: androidx.viewpager:viewpager-1.0.0-alpha1">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0-alpha1.aar/230c392305b36adcafe97a08a55f4a1b/jars/classes.jar!/" />
+        <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0-alpha1.aar/230c392305b36adcafe97a08a55f4a1b/res" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.viewpager/viewpager/1.0.0-alpha1/ef4c8ae3ef0951b7691e6c810899d350062a4703/viewpager-1.0.0-alpha1-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: com.google.android.material:material-1.0.0-alpha1">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/material-1.0.0-alpha1.aar/a1e8d440a718c745f253010129ac283a/jars/classes.jar!/" />
+        <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/material-1.0.0-alpha1.aar/a1e8d440a718c745f253010129ac283a/res" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="Gradle: com.google.code.findbugs:jsr305:2.0.1@jar">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/2.0.1/516c03b21d50a644d538de0f0369c620989cd8f0/jsr305-2.0.1.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="Gradle: com.google.code.gson:gson:2.7@jar">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/bbb63ca253b483da8ee53a50374593923e3de2e2/gson-2.7-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: com.squareup.okhttp3:logging-interceptor:3.3.1@jar">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/logging-interceptor/3.3.1/99ce730034c6f5aaed710d1e0e9df95e8714ed5f/logging-interceptor-3.3.1.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/logging-interceptor/3.3.1/91ff9608e60cf00c26fd2ee4edd1f6fff551dd62/logging-interceptor-3.3.1-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: com.squareup.okhttp3:okhttp:3.3.1@jar">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.3.1/19047bdb6a4fc00a44124f64ca98e88fc204e7e3/okhttp-3.3.1.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.3.1/e4e61f9159325a04a7c66ce7c4340ee2e683879a/okhttp-3.3.1-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: com.squareup.okhttp:okhttp:2.5.0@jar">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.5.0/4de2b4ed3445c37ec1720a7d214712e845a24636/okhttp-2.5.0.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.5.0/cd4ddf1fb4ad84ea5d67ee3b386aea25f02ea096/okhttp-2.5.0-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: com.squareup.okio:okio:1.8.0@jar">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.8.0/5ea7af56cc7c567ed9856d99efb30740e9b17ff/okio-1.8.0.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.8.0/3a5f5ed555660472caab77ad3acdf157db97f838/okio-1.8.0-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: com.squareup.picasso:picasso:2.5.2@jar">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/3f998a26355e4138e3e7a880a5dac57fc4370339/picasso-2.5.2-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: com.squareup.retrofit2:converter-gson:2.1.0@jar">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.1.0/aa557d71ead91cbf26e0c316a0f593d168303309/converter-gson-2.1.0.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.1.0/e2c38b918400123c0e2a98dfd3f412c552bcf238/converter-gson-2.1.0-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: com.squareup.retrofit2:retrofit:2.1.0@jar">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.1.0/2de7cd8b95b7021b1d597f049bcb422055119f2c/retrofit-2.1.0.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.1.0/3564ebef90ac75e61ed65ab9af0f422ce92d4afa/retrofit-2.1.0-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: com.squareup:javawriter:2.1.1@jar">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup/javawriter/2.1.1/67ff45d9ae02e583d0f9b3432a5ebbe05c30c966/javawriter-2.1.1.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup/javawriter/2.1.1/5b31387d839a5cdaf5b6de3990da01f7f2b963c5/javawriter-2.1.1-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: de.hdodenhof:circleimageview-2.1.0">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/jetified-circleimageview-2.1.0.aar/185bed2d4f5c7e1055e03f26f148769a/jars/classes.jar!/" />
+        <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/jetified-circleimageview-2.1.0.aar/185bed2d4f5c7e1055e03f26f148769a/res" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/de.hdodenhof/circleimageview/2.1.0/f099f4aafdd665b05e0c31d59b900812a172e30f/circleimageview-2.1.0-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: javax.inject:javax.inject:1@jar">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/a00123f261762a7c5e0ec916a2c7c8298d29c400/javax.inject-1-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: junit:junit:4.12@jar">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/2973d150c0dc1fefe998f834810d68f278ea58ec/junit-4.12.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: net.sf.kxml:kxml2:2.3.0@jar">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.sf.kxml/kxml2/2.3.0/ccbc77a5fd907ef863c29f3596c6f54ffa4e9442/kxml2-2.3.0.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.sf.kxml/kxml2/2.3.0/309cd2cff7260e465792fda3dcbb063b730d8050/kxml2-2.3.0-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: org.hamcrest:hamcrest-core:1.3@jar">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-core/1.3/42a25dc3219429f0e5d060061f71acb49bf010a0/hamcrest-core-1.3.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-core/1.3/1dc37250fbc78e23a65a67fbbaf71d2e9cbc3c0b/hamcrest-core-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: org.hamcrest:hamcrest-integration:1.3@jar">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-integration/1.3/5de0c73fef18917cd85d0ab70bb23818685e4dfd/hamcrest-integration-1.3.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-integration/1.3/ae7787a563e6a1b1f17fd4ac43be3a3c8830cfda/hamcrest-integration-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: org.hamcrest:hamcrest-library:1.3@jar">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-library/1.3/4785a3c21320980282f9f33d0d1264a69040538f/hamcrest-library-1.3.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-library/1.3/47a7ee46628ab7133129cd7cef1e92657bc275e/hamcrest-library-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-common:1.2.50@jar">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.2.50/6b19a2fcc29d34878b3aab33fd5fcf70458a73df/kotlin-stdlib-common-1.2.50.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.2.50/d3189b4b8c72c7f3a327e3c21dca8dbcba267359/kotlin-stdlib-common-1.2.50-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.2.50@jar">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jdk7/1.2.50/3811b225f9a22abf4f9d8a6f81adef0ba78a3c5/kotlin-stdlib-jdk7-1.2.50.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jdk7/1.2.50/2bafa7a4857213456b94f5bca20508ccf640eac6/kotlin-stdlib-jdk7-1.2.50-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.2.50@jar">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.2.50/66d47b004c5b8a1d2d1df9e463187390ed741316/kotlin-stdlib-1.2.50.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.2.50/9ec9cf82e5e18d990a4b4fb3b5763cd3637b6d63/kotlin-stdlib-1.2.50-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: org.jetbrains:annotations:13.0@jar">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/919f0dfe192fb4e063e7dacadee7f8bb9a2672a9/annotations-13.0.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/5991ca87ef1fb5544943d9abc5a9a37583fabe03/annotations-13.0-sources.jar!/" />
+      </SOURCES>
+    </library>
+  </component>
+</project>
