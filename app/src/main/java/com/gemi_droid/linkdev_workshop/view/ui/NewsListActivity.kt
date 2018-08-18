@@ -9,6 +9,7 @@ import android.view.Menu
 import android.view.MenuItem
 import android.widget.Toast
 import com.gemi_droid.linkdev_workshop.R
+import com.gemi_droid.linkdev_workshop.R.id.*
 import kotlinx.android.synthetic.main.activity_news_list.*
 import kotlinx.android.synthetic.main.app_tool_bar.*
 

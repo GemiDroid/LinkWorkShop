@@ -6,6 +6,7 @@ import android.view.Menu
 import android.view.MenuItem
 import androidx.appcompat.app.AppCompatActivity
 import com.gemi_droid.linkdev_workshop.R
+import com.gemi_droid.linkdev_workshop.R.id.toolbar
 import com.gemi_droid.linkdev_workshop.model.network.models.NewsModel
 import kotlinx.android.synthetic.main.app_tool_bar.*
 

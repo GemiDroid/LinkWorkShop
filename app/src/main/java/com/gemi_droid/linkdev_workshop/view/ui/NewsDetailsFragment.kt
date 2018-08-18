@@ -40,7 +40,7 @@ class NewsDetailsFragment : Fragment() {
         newsObject?.let {
             rootView.txt_news_details_title.text = newsObject?.newsTitle
             rootView.txt_news_details_author.text = "By " + newsObject?.newsAuthor
-            rootView.txt_news_details_date.text =TimeFormat.getCurrentTimeFormat(newsObject?.newsDate)
+            rootView.txt_news_details_date.text =TimeFormat.getCurrentTimeFormat(newsObject!!.newsDate)
             newsObject?.newsDate
             rootView.txt_news_details_description.text = newsObject?.newsDescription
             Picasso.with(activity).load(newsObject?.newsImageUrl).placeholder(R.drawable.placeholder).into(rootView.img_news_details_url)

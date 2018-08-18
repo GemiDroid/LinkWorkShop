@@ -12,7 +12,7 @@ public class NewsViewModel extends ViewModel {
     private static LiveData<List<NewsModel>> NewsList = new LiveData<List<NewsModel>>(){};
 
     public void getNews() {
-        NewsList = NewsRepository.getInstance().getNews();
+        NewsList = NewsRepository.Companion.getInstance().getNews();
     }
 
     public LiveData<List<NewsModel>> observeOnNews(){
